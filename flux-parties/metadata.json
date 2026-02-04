@@ -1,0 +1,7 @@
+{
+  "name": "Flux Parties",
+  "description": "A comprehensive event management system featuring wave-based pricing, guest registration, QR ticket generation, and an advanced admin dashboard with financial tracking and check-in capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
